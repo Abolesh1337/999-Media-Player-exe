@@ -1,3 +1,5 @@
+Password to the exe is 999
+
 So this is a exe for my website for the people that cant run edge while playing big cpu usage games. - the website - https://999-mobile.vercel.app/
 I would like if you can show support to the site 
 
@@ -6,3 +8,4 @@ RIP 999 LLJW 🕊️
 Ps. there is no worrying about updates everything is auto updated 
 
 basically the exe is made using a bat file that redirects you to the link but it opens in a single window that saves cpu usage
+
