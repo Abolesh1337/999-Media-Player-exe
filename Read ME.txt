@@ -9,3 +9,5 @@ Ps. there is no worrying about updates everything is auto updated
 
 basically the exe is made using a bat file that redirects you to the link but it opens in a single window that saves cpu usage
 
+Just made an apk for the 999 website for mobile users 9/22/2025 auto updates too
+
